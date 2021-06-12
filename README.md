@@ -1,7 +1,7 @@
 # LabelSee
  查看Dlib数据集标注的小软件
 ## 窗口：
-![image](https://github.com/Firemountaincold/LabelSee/blob/main/Image.png)
+![image](https://github.com/Firemountaincold/LabelSee/blob/main/LabelSee/Image.png)
 ## 更新文档：
 ### 2021.6.3：
 #### 1.0：
