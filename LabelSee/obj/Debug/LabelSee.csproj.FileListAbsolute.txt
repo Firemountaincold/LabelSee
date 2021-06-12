@@ -1,0 +1,10 @@
+C:\Users\llz\source\repos\LabelSee\LabelSee\bin\Debug\LabelSee.exe.config
+C:\Users\llz\source\repos\LabelSee\LabelSee\bin\Debug\LabelSee.exe
+C:\Users\llz\source\repos\LabelSee\LabelSee\bin\Debug\LabelSee.pdb
+C:\Users\llz\source\repos\LabelSee\LabelSee\obj\Debug\LabelSee.csprojAssemblyReference.cache
+C:\Users\llz\source\repos\LabelSee\LabelSee\obj\Debug\LabelSee.Form1.resources
+C:\Users\llz\source\repos\LabelSee\LabelSee\obj\Debug\LabelSee.Properties.Resources.resources
+C:\Users\llz\source\repos\LabelSee\LabelSee\obj\Debug\LabelSee.csproj.GenerateResource.cache
+C:\Users\llz\source\repos\LabelSee\LabelSee\obj\Debug\LabelSee.csproj.CoreCompileInputs.cache
+C:\Users\llz\source\repos\LabelSee\LabelSee\obj\Debug\LabelSee.exe
+C:\Users\llz\source\repos\LabelSee\LabelSee\obj\Debug\LabelSee.pdb
